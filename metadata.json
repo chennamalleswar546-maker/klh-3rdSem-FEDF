@@ -1,0 +1,6 @@
+{
+  "name": "College Canteen Pre-Order System",
+  "description": "Pre-order college canteen meals with QR token generation, dietary preferences, daily spending limit safeguards, a real-time kitchen priority queue dashboard, a visual table desk signal system, and historical cafeteria analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
